@@ -1,6 +1,6 @@
-- 👋 Olá, sou Paulo Toledo
-- 👀 Estou interessado em programação nas liguagens Java, Javascript e PHP
-- 🌱 Atualmente, estou estudando Next.Js (Um framework para a bibliotéca React)
+# Olá, sou Paulo Toledo
+## Sou Bacharel em Sistemas de Informação pela UniAcademia 
+
 
 ##
 
